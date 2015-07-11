@@ -3,8 +3,8 @@ Aplicação para cadastro de usuários (CRUD)
 
 # Tecnologias
 
-**Angular JS** 
+* **Angular JS** 
 
-**PHP - v.5.6** 
+* **PHP - v.5.6** 
 
-**CodeIgniter - v.3.0** 
+* **CodeIgniter - v.3.0** 
